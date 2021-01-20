@@ -1,16 +1,14 @@
-### Hi there 👋
+# Lee SeungHo
 
-<!--
-**PrcTcal/PrcTcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Career
+  - 2020.07.01 ~ 2020.12.29 : DEX Consulting Web developer Internship
+  - 2021.01.04 ~ NOW : Vatech Networks Platform Business dept Web Developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Ongoing
+  > #HTML #CSS #Javascript #Spring<br>
+  > #Spring_Boot #MySQL #Node.js<br>
+  > #MongoDB #DynamoDB #GraphQL<br>
+  > #Apollo
+  
+# Plans To Do
+  > #React #Docker #Kubernetes #Python
