@@ -8,7 +8,7 @@
   > #HTML #CSS #Javascript #Spring<br>
   > #Spring_Boot #MySQL #Node.js<br>
   > #MongoDB #DynamoDB #GraphQL<br>
-  > #Apollo
+  > #Apollo #React #C#
   
 # Plans To Do
-  > #React #Docker #Kubernetes #Python
+  > #Docker #Kubernetes #Python
